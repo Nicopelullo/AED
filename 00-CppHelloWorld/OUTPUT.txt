@@ -1,0 +1,17 @@
+ El volumen de la unidad D no tiene etiqueta.
+ El n£mero de serie del volumen es: 7292-B4BE
+
+ Directorio de D:\Documentos\Facultad\ALGORITMOS\00-CppHelloWorld
+
+15/04/2021  18:30    <DIR>          .
+15/04/2021  18:30    <DIR>          ..
+15/04/2021  18:14                89 Hello.cpp
+15/04/2021  18:11               767 Hello.dev
+15/04/2021  18:14         1.920.923 Hello.exe
+15/04/2021  18:15                92 Hello.layout
+15/04/2021  18:14             1.823 Hello.o
+15/04/2021  18:14             1.170 Makefile.win
+15/04/2021  18:28               824 OUTPUT.txt
+15/04/2021  18:30                 0 OUTPUTT.txt
+               8 archivos      1.925.688 bytes
+               2 dirs  636.664.090.624 bytes libres
